@@ -11,7 +11,7 @@ Main thing Due to some tech issues the source code is been private
 
 
 ## Available Scripts
-In the project directory, you can run:
+In the project directory, you can run::
 
 ### `npm start`
 
