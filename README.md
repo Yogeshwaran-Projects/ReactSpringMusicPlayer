@@ -6,9 +6,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-Main thing Due to some tech issues the source code is been privat
 
+Main thing Due to some tech issues the source code is been private
+
+
+## Available Scripts
 In the project directory, you can run:
 
 ### `npm start`
